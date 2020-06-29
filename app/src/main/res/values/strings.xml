@@ -38,4 +38,7 @@
     <string name="submitted">Submitted, no need to submit again</string>
     <string name="done">Done</string>
     <string name="submit">Submit</string>
+    <string name="banner_image">bannerImage</string>
+    <string name="gdg_image">GDG Image</string>
+    <string name="localgroupsimage">localGroupsImage</string>
 </resources>
